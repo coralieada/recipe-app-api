@@ -23,7 +23,7 @@ class ModelTests(TestCase):
         sample_emails = [
             ['test1@example.com', 'test1@example.com'],
             ['Test2@EXAMPLE.COM', 'Test2@example.com'],
-            ['TEST3@EXAMPLE.COM', 'TEassST3@example.com'],
+            ['TEST3@EXAMPLE.COM', 'TEST3@example.com'],
             ['test4@example.Com', 'test4@example.com']
         ]
 
